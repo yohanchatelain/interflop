@@ -1,4 +1,2 @@
-[submodule "frontends/verificarlo"]
-	path = frontends/verificarlo
-	url = https://github.com/verificarlo/verificarlo
+[submodule "frontends/verificarlo/"]
 	branch = interflop

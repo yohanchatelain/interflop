@@ -1,0 +1,13 @@
+Info [verificarlo]: loaded backend libinterflop_mca_int.so
+Info [interflop_mca_int]: load backend with precision-binary32 = 0, precision-binary64 = 0, mode = ieee, error-mode = rel, max-abs-error-exponent = 112, daz = false, ftz = false and sparsity = 1.000000
+a + b = c : 0.100000 + 0.100000 = 0.200000
+a - b = c : 0.100000 - 0.100000 = 0.000000
+a * b = c : 0.100000 * 0.100000 = 0.010000
+a / b = c : 0.100000 / 0.100000 = 1.000000
+a * b + c = c : 0.100000 * 0.100000 + 1.010000 = 1.010000
+a == b = c : 0.100000 == 0.100000 = 1.000000
+a != b = c : 0.100000 != 0.100000 = 0.000000
+a < b = c : 0.100000 < 0.100000 = 0.000000
+a <= b = c : 0.100000 <= 0.100000 = 1.000000
+a > b = c : 0.100000 > 0.100000 = 0.000000
+a >= b = c : 0.100000 >= 0.100000 = 1.000000

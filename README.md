@@ -1,5 +1,13 @@
 # Interflop
 
+## Installation
+
+To install locally all the interflop-backends, frontends and run the tests, use:
+
+```bash
+    ./installcheck.sh
+```
+
 ## License
 
 Copyright (c) 2017 EDF, Universite de Versailles St-Quentin-en-Yvelines
